@@ -1,3 +1,12 @@
+/*
+ * Part of Very Secure FTPd
+ * Licence: GPL v2
+ * Author: Linjie zang
+ * ftpinfo.c
+ *
+ * write read iops.
+ */
+
 #include <string.h>
 #include <sys/types.h>
 #include <sys/socket.h>
