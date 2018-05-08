@@ -3,8 +3,8 @@
  * Licence: GPL v2
  * Author: Linjie zang
  * ftpinfo.c
- *
- * write read iops.
+ * 2018-5-8
+ * for write read iops.
  */
 
 #include <string.h>
